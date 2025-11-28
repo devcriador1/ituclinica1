@@ -1,0 +1,5 @@
+{
+  "name": "Saúde Cidade Nova",
+  "description": "A web application showcasing the medical specialties offered by Clínica Médica Saúde Cidade Nova, allowing users to easily view details and schedule appointments via WhatsApp.",
+  "requestFramePermissions": []
+}
